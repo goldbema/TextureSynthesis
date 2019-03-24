@@ -2,7 +2,7 @@
 
 This project implements Efros and Leung's 'Texture Synthesis by Non-parametric Sampling' (1999).
 
-The algorithm synthesizes a new texture from an existing input by sampling the center pixel from a local neighborhood of the sample that best "matches" the a local neighborhood in the current state of the synthesized texture.
+The algorithm synthesizes a new texture from an existing input by sampling the center pixel from a local neighborhood of the sample that best "matches" a local neighborhood in the current state of the synthesized texture.
 
 ## Usage
 
